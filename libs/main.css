@@ -1,0 +1,20 @@
+
+.insert_button{
+    margin-top: 20px;
+}
+
+#new_form{
+    display:none;
+    position:relative;
+    margin-top: 20px;
+    margin-left: 36px;
+}
+th{
+    width: 14%;
+}
+td{
+    text-align: center;
+}
+h2{
+    margin-top: 50px;
+}

@@ -1,0 +1,5 @@
+# Table of users and control panel over the payment status of clients.
+# For safety reasons, the classes related to working with database
+#  not printed.
+#
+libs/*.php
